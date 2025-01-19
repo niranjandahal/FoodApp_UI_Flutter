@@ -4,7 +4,7 @@ Food order app using flutter.
 
 ## Getting Started
 
-<img src="https://github.com/niranjandahal/Food_order_app/blob/main/project-five.jpg">
+<img src="https://github.com/niranjandahal/Food_order_app/blob/main/project-five.png">
 
 
 ### Prerequisites
